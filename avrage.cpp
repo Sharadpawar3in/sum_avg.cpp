@@ -7,9 +7,9 @@ cout<<"enter the number of elements:";
 cin>>n;
 double numbers[n];
 double sum=0.0;
-for(int i=0;i<n:++i)
+for(int i=0;i<n;++i)
 {
-cout<<"enter nu,ber"<<i+1<<
+cout<<"enter number"<<i+1<<endl;
 cin>>numbers[i];
 sum+=numbers[i];
 }
